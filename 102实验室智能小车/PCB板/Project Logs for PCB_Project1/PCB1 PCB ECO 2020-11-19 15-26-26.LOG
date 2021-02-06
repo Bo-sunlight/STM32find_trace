@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J17-5
+Removed Pin From Net: NetName=3V3 Pin=J18-5
+Removed Pin From Net: NetName=5V Pin=J19-5
+Change Component Footprint: Designator=J17 Old Footprint=sip-5 New Footprint=sip-4
+Change Component Footprint: Designator=J18 Old Footprint=sip-5 New Footprint=sip-4
+Change Component Footprint: Designator=J19 Old Footprint=sip-5 New Footprint=sip-4
+Change Component Comment : Designator=J17 Old Comment=CON5 New Comment=CON4
+Change Component Comment : Designator=J18 Old Comment=CON5 New Comment=CON4
+Change Component Comment : Designator=J19 Old Comment=CON5 New Comment=CON4
+Added Room: Name=Sheet1

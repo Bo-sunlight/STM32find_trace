@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PA4 Pin=J20-1
+Removed Pin From Net: NetName=PA5 Pin=J20-2
+Removed Pin From Net: NetName=PA6 Pin=J20-3
+Removed Pin From Net: NetName=PA7 Pin=J20-4
+Removed Pin From Net: NetName=PB1 Pin=J20-5
+Removed Member From Class: ClassName=Sheet1 Member=J20
+Added Component: Designator=J?(sip-6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PA4 Pin=J?-1
+Added Pin To Net: NetName=PA5 Pin=J?-2
+Added Pin To Net: NetName=PA6 Pin=J?-3
+Added Pin To Net: NetName=PA7 Pin=J?-4
+Added Pin To Net: NetName=PB0 Pin=J?-5
+Added Pin To Net: NetName=PB1 Pin=J?-6
+Added Member To Class: ClassName=Sheet1 Member=Component J? CON6
+Added Room: Name=Sheet1

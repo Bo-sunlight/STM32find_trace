@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=R15 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=R16 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=R17 Old Footprint=AXIAL0.6 New Footprint=0603
+Change Component Footprint: Designator=C1 Old Footprint=CAP2 New Footprint=0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP2 New Footprint=0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP2 New Footprint=0603
+Change Component Footprint: Designator=D1 Old Footprint=LED2_B New Footprint=LED_0805
+Change Component Footprint: Designator=D3 Old Footprint=LED2_B New Footprint=LED_0805
+Change Component Footprint: Designator=D4 Old Footprint=LED2_B New Footprint=LED_0805
+Added Room: Name=Sheet1

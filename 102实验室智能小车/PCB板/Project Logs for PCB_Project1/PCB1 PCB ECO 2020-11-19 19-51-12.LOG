@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=*SK NewDesignator=QVD
+Change Component Designator: OldDesignator=J1 NewDesignator=CSB
+Change Component Designator: OldDesignator=J2 NewDesignator=Lanya
+Change Component Designator: OldDesignator=J3 NewDesignator=OLED
+Change Component Designator: OldDesignator=J4 NewDesignator=WENYA
+Change Component Designator: OldDesignator=J? NewDesignator=YJ
+Change Component Designator: OldDesignator=JP1 NewDesignator=BMQ1
+Change Component Designator: OldDesignator=JP2 NewDesignator=BMQ2
+Added Member To Class: ClassName=Sheet1 Member=Component BMQ1 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component BMQ2 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component CSB CON4
+Added Member To Class: ClassName=Sheet1 Member=Component Lanya CON6
+Added Member To Class: ClassName=Sheet1 Member=Component OLED CON4
+Added Member To Class: ClassName=Sheet1 Member=Component QVD µç»úÇý¶¯
+Added Member To Class: ClassName=Sheet1 Member=Component WENYA CON4
+Added Member To Class: ClassName=Sheet1 Member=Component YJ CON6
+Added Room: Name=Sheet1

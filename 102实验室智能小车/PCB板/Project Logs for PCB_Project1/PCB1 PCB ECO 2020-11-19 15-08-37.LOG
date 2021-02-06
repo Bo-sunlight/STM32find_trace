@@ -1,0 +1,35 @@
+Added Component: Designator=p(PCBComponent_1 - duplicate)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=p-1
+Added Pin To Net: NetName=3V3 Pin=p-3
+Added Pin To Net: NetName=Net*SK_4 Pin=p-4
+Added Pin To Net: NetName=PB11 Pin=p-5
+Added Pin To Net: NetName=PB10 Pin=p-6
+Added Pin To Net: NetName=PB1 Pin=p-7
+Added Pin To Net: NetName=PB0 Pin=p-8
+Added Pin To Net: NetName=PA7 Pin=p-9
+Added Pin To Net: NetName=PA6 Pin=p-10
+Added Pin To Net: NetName=PA5 Pin=p-11
+Added Pin To Net: NetName=PA4 Pin=p-12
+Added Pin To Net: NetName=PA3 Pin=p-13
+Added Pin To Net: NetName=PA2 Pin=p-14
+Added Pin To Net: NetName=PA1 Pin=p-15
+Added Pin To Net: NetName=PA0 Pin=p-16
+Added Pin To Net: NetName=PC15 Pin=p-17
+Added Pin To Net: NetName=PC14 Pin=p-18
+Added Pin To Net: NetName=3V3 Pin=p-21
+Added Pin To Net: NetName=GND Pin=p-22
+Added Pin To Net: NetName=5V Pin=p-23
+Added Pin To Net: NetName=PB9 Pin=p-24
+Added Pin To Net: NetName=PB8 Pin=p-25
+Added Pin To Net: NetName=PB7 Pin=p-26
+Added Pin To Net: NetName=PB6 Pin=p-27
+Added Pin To Net: NetName=PB5 Pin=p-28
+Added Pin To Net: NetName=PA11 Pin=p-33
+Added Pin To Net: NetName=PA8 Pin=p-36
+Added Pin To Net: NetName=PB15 Pin=p-37
+Added Pin To Net: NetName=PB14 Pin=p-38
+Added Pin To Net: NetName=PB13 Pin=p-39
+Added Pin To Net: NetName=PB12 Pin=p-40
+Added Member To Class: ClassName=Sheet1 Member=Component p STM32单片机最小系统
+Added Room: Name=Sheet1
